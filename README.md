@@ -1,14 +1,18 @@
-![sodapdf-converted (6)](https://github.com/Alleestar/Enjoy_trip/assets/147222319/a56fcf46-feaa-4dba-aa5c-77d3c0b91029)# enjoy_trip
 - 한국관광공사 API를 활용한 여행지 추천 웹사이트
 ![sodapdf-converted (2)](https://github.com/Alleestar/Enjoy_trip/assets/147222319/c1ee8c6b-f949-44fc-a425-d9a715abbfde)
 
 ### 목표
+- 장표상의 기능을 구현하는 것
 ![sodapdf-converted](https://github.com/Alleestar/Enjoy_trip/assets/147222319/6c945e79-230c-4867-8404-98f450dffee2)
 
 ### 기술 스택
+- FE: node.js / vue.js / HTML / CSS / Javascript / pinia / Axios
+- BE: Java (JDK1.8) / Intelli j / Spring Boot / JWT / Graddle / Lombok
+- DB: MySQL
 ![sodapdf-converted (1)](https://github.com/Alleestar/Enjoy_trip/assets/147222319/53adb2cb-b017-4942-812e-fb6a1449c5e1)
 
 ### 1. Main 화면
+- 그리드 기능 및 사용자가 저장한 이미지를 기반으로 추천된 사진을 게시
 ![sodapdf-converted (3)](https://github.com/Alleestar/Enjoy_trip/assets/147222319/6baa82ac-3085-4bb2-922c-0d96f496187c)
 
 ### 2. Login 기능
